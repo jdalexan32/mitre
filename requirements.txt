@@ -1,0 +1,11 @@
+ipykernel
+pandas
+jsonschema
+python-graphviz
+plotly
+openpyxl
+nbformat
+pyjanitor 
+mitreattack
+mitreattack-python
+attackToExcel
