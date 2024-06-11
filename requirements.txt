@@ -1,10 +1,10 @@
 pandas
 jsonschema
-python-graphviz
 plotly
 openpyxl
 nbformat
-pyjanitor 
-mitreattack
+pyjanitor
+graphviz
 mitreattack-python
-attackToExcel
+#mitreattack
+#attackToExcel

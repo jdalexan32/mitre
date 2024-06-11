@@ -1,8 +1,8 @@
 # files to ignore in mitre-on-jupyter folder
-./mitre-on-jupyter/old-files/
-./mitre-on-jupyter/.ipynb_checkpoints
-./mitre-on-jupyter/test-get-d3fend.ipynb
-./mitre-on-jupyter/attack-stix-2-excel.ipynb
+mitre-on-jupyter/old-files/
+mitre-on-jupyter/.ipynb_checkpoints
+mitre-on-jupyter/test-get-d3fend.ipynb
+mitre-on-jupyter/attack-stix-2-excel.ipynb
 
 # files to ignore in current folder
 openai-prompts.txt
