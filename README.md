@@ -4,6 +4,8 @@
 ```git clone https://github.com/jdalexan32/mitre.git```  
 
 ## Create venv (ps) ##
+```cd mitre-on-jupyter```   
+   
 1. Active venv  
    ```venv\Scripts\Activate.ps1```
 
