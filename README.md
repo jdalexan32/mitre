@@ -1,7 +1,7 @@
 # mitre att&ck #
 
 ## Clone repo ##
-```git clone <repo url```  
+```git clone <repo url>```  
 
 ## Create venv (ps) ##
 1. Active venv  
