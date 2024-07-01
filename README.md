@@ -17,7 +17,7 @@
    ```ipython kernel install --user --name=mitre-attack```  
    ```python -m ipykernel install --user --name=mitre-attack```  
  
-  Replace mitre-attack with the name you want for your Jupyter kernel.  
+     Replace mitre-attack with the name you want for your Jupyter kernel.  
 
 4.	Install the Bash Kernel  
   ```pip install bash_kernel```  
