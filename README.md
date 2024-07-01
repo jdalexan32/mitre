@@ -6,7 +6,7 @@
 ## Create venv (ps) ##
 ```cd mitre-on-jupyter```   
 
-1. Install virtualenv (if not already installed)
+1. Install virtualenv (if not already installed)   
    ```pip install virtualenv```
    
 2. Active venv  
