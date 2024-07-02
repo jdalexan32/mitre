@@ -3,7 +3,7 @@ Project with python scripts for querying MITRE ATT&CK.
 
  ```sh
    git clone https://github.com/yourusername/euro2024-predictions.git
-   cd euro2024-predictions
+   cd euro2024-predictions```
 
 ## Installation ##  
 Clone the repository  
