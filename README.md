@@ -41,12 +41,13 @@ cd mitre\mitre-on-jupyter
    python -m bash_kernel.install
    ```
    
-7. Start Jupyter Notebook  
+7. Start Jupyter Notebook (browser)  
    ```
    Jupyter notebook
    ```
+   Or
    
-8. Select the Virtual Environment Kernel in Jupyter  
+   Open Visual Studio Cose and select the Virtual Environment Kernel in Jupyter  
    In the Jupyter interface click on the “Kernel” menu, choose “Change Kernel” and select the virtual environment kernel you created 
   
 ## Install requirements   
