@@ -5,6 +5,7 @@ Project with python scripts for querying MITRE ATT&CK.
 Clone the repository  
 ```sh
 git clone https://github.com/jdalexan32/mitre.git   
+
 ```sh
 cd mitre-on-jupyter   
 
