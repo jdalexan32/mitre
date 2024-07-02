@@ -10,7 +10,7 @@ git clone https://github.com/jdalexan32/mitre.git
 cd mitre\mitre-on-jupyter
 ```
 
-## Create virtual environment    
+## Prepare Jupyter Notebook environment    
 1. Create venv
    ```
    python -m venv venv
