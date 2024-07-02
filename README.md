@@ -46,7 +46,7 @@ cd mitre\mitre-on-jupyter
 pip install -r requirements.txt
 ```
 
-## Start Jupyter Notebook (
+## Start Jupyter Notebook 
    Browser -   
    ```
    Jupyter notebook
