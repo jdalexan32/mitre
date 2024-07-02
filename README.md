@@ -1,11 +1,14 @@
-# mitre att&ck #
+# mitre att&ck #  
+Project with python scripts for querying MITRE ATT&CK.  
 
-## Clone repo ##
-```git clone https://github.com/jdalexan32/mitre.git```  
+## Installation ##  
+Clone the repository  
+```sh
+git clone https://github.com/jdalexan32/mitre.git```   
+```sh
+cd mitre-on-jupyter```   
 
-## Create venv (ps) ##
-```cd mitre-on-jupyter```   
-
+## Create venv (powershell) ##   
 1. Install virtualenv (if not already installed)   
    ```pip install virtualenv```
    
@@ -34,5 +37,6 @@
 7.	Select the Virtual Environment Kernel in Jupyter  
   In the Jupyter interface click on the “Kernel” menu, choose “Change Kernel” and select the virtual environment kernel you created  
  
-## Install requirements ##
-  ```pip install -r requirements.txt```
+## Installation Continued ##   
+Install requirements   
+```pip install -r requirements.txt```
