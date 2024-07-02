@@ -7,7 +7,7 @@ Clone the repository
 git clone https://github.com/jdalexan32/mitre.git
 ```
 ```
-cd mitre-on-jupyter
+cd mitre\mitre-on-jupyter
 ```
 
 ## Create venv   
