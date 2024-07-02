@@ -25,12 +25,6 @@ cd mitre\mitre-on-jupyter
    ```
 4. Install Kernel  
    ```
-   pip install ipython
-   ```
-   ```
-   pip install ipkernel
-   ```  
-   ```
    ipython kernel install --user --name=mitre-attack
    ```  
    ```
