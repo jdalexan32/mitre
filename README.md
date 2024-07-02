@@ -36,23 +36,25 @@ cd mitre-on-jupyter
    ```
    python -m ipykernel install --user --name=mitre-attack
    ```  
-   Replace mitre-attack with the name you want for your Jupyter kernel.
-   
 
-6.	Install the Bash Kernel  
+   Replace mitre-attack with the name you want for your Jupyter kernel.
+       
+6. Install the Bash Kernel  
    ```
    pip install bash_kernel
-   ```  
+   ```
    ```
    python -m bash_kernel.install
-   ```  
- 
-6.	Start Jupyter Notebook  
+   ```
+   
+7. Start Jupyter Notebook  
    ```
    Jupyter notebook
    ```
- 7. Select the Virtual Environment Kernel in Jupyter  
-   In the Jupyter interface click on the “Kernel” menu, choose “Change Kernel” and select the virtual environment kernel you created  
+   
+8. Select the Virtual Environment Kernel in Jupyter  
+   In the Jupyter interface click on the “Kernel” menu, choose “Change Kernel” and select the virtual environment kernel you created 
+
  
 ## Installation Continued ##   
 Install requirements   
