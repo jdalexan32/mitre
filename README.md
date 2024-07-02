@@ -54,10 +54,8 @@ cd mitre-on-jupyter
    
 8. Select the Virtual Environment Kernel in Jupyter  
    In the Jupyter interface click on the “Kernel” menu, choose “Change Kernel” and select the virtual environment kernel you created 
-
- 
-## Installation Continued ##   
-Install requirements   
+  
+## Install requirements   
 ```
 pip install -r requirements.txt
 ```
