@@ -4,10 +4,10 @@ Project with python scripts for querying MITRE ATT&CK.
 ## Installation  
 Clone the repository  
 ```
-git clone https://github.com/jdalexan32/mitre.git   
+git clone https://github.com/jdalexan32/mitre.git
 ```
 ```
-cd mitre-on-jupyter   
+cd mitre-on-jupyter
 ```
 
 ## Create venv   
