@@ -10,10 +10,10 @@ git clone https://github.com/jdalexan32/mitre.git
 cd mitre\mitre-on-jupyter
 ```
 
-## Create venv   
-1. Install virtualenv (if not already installed)   
+## Create virtual environment    
+1. Create venv
    ```
-   pip install virtualenv
+   python -m venv venv
    ```   
 2. Activate venv (powershell)
    ```
