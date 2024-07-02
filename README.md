@@ -1,17 +1,14 @@
-# mitre att&ck #  
+# mitre att&ck  
 Project with python scripts for querying MITRE ATT&CK.  
 
- ```sh
-   git clone https://github.com/yourusername/euro2024-predictions.git
-   cd euro2024-predictions```
-
-## Installation ##  
+## Installation  
 Clone the repository  
-```sh
-   git clone https://github.com/jdalexan32/mitre.git   
-
-```sh
-   cd mitre-on-jupyter   
+```
+git clone https://github.com/jdalexan32/mitre.git   
+```
+```
+cd mitre-on-jupyter   
+```
 
 ## Create venv (powershell) ##   
 1. Install virtualenv (if not already installed)   
