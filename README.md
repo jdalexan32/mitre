@@ -43,7 +43,7 @@ cd mitre\mitre-on-jupyter
   
 ## Install requirements   
 ```
-pip install -r requirements.txt
+pip install -r ..\requirements.txt
 ```
 
 ## Start Jupyter Notebook 
