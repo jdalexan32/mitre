@@ -5,6 +5,6 @@ att&ck-analysis/test-get-d3fend.ipynb
 att&ck-analysis/attack-stix-2-excel.ipynb
 
 # files to ignore in current folder
-mitre-env/
+venv/
 openai-prompts.txt
 json2jsonl.py

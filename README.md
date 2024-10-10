@@ -13,7 +13,7 @@ cd mitre\att&ck-analysis
 ## Prepare Jupyter Notebook environment    
 1. Create venv
    ```
-   python -m venv mitre-env
+   python -m venv venv
    ```   
 2. Activate venv (powershell)
    ```
@@ -43,7 +43,7 @@ cd mitre\att&ck-analysis
   
 ## Install requirements   
 ```
-pip install -r ..\requirements.txt
+pip install -r .\requirements.txt
 ```
 
 ## Start Jupyter Notebook 
