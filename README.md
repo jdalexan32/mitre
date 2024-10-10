@@ -2,12 +2,9 @@
 Project with python scripts for querying MITRE ATT&CK.  
 
 ## Installation  
-Clone the repository  
+Go to directory where you want your files and clone the repository from Github
 ```
 git clone https://<username>:<token>@github.com/jdalexan32/mitre.git
-```
-```
-cd mitre\att&ck-analysis
 ```
 
 ## Prepare Jupyter Notebook environment    
