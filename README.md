@@ -4,16 +4,16 @@ Project with python scripts for querying MITRE ATT&CK.
 ## Installation  
 Clone the repository  
 ```
-git clone https://github.com/jdalexan32/mitre.git
+git clone https://<username>:<token>@github.com/jdalexan32/mitre.git
 ```
 ```
-cd mitre\mitre-on-jupyter
+cd mitre\att&ck-analysis
 ```
 
 ## Prepare Jupyter Notebook environment    
 1. Create venv
    ```
-   python -m venv venv
+   python -m venv mitre-env
    ```   
 2. Activate venv (powershell)
    ```
